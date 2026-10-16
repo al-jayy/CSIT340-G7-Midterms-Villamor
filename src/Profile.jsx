@@ -22,7 +22,7 @@ function Profile() {
     return (
         <div className="flex items-end justify-between bg-[#F5E7C6] px-20 py-10">
             <div>
-                <Bio name='Villamor, James Allen M.' username='al-jayy' />
+                <Bio name='James Allen M. Villamor' username='al-jayy' />
                 <StatCard followers={followers} rate={rate} />
             </div>
 
